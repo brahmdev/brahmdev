@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brahmdev" alt="brahmdev" /></a> </p>
 
-- 💬 Ask me about **java, javascript, node, react**
+- 💬 Ask me about **javascript, node, react, java**
 
 - 📫 How to reach me **pandey.dev25@gmail.com**
 
